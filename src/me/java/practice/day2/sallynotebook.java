@@ -1,4 +1,4 @@
-package Test;
+package me.java.practice.day2;
 
 import java.util.Scanner;
 
@@ -15,9 +15,6 @@ public class sallynotebook {
 
         int Sally_Change = Sally_Money - notebook_all;
         System.out.println("Sally가 받을 잔돈은 " + Sally_Change + "입니다.");
-
-
-
 
     }
 
